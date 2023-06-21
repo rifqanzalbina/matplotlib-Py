@@ -14,7 +14,7 @@ A Case Matplotlib and with explanation
 5. Active development and extensive documentations
 
 ## How to Install
-`pip install matplotlib`
+`python -m pip install -U matplotlib`
 
 ## The project
 - Always update every week :D

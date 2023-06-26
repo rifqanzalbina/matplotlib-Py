@@ -13,5 +13,10 @@ The main use cases for a stacked bar chart include :
   representing different time periods or groups. you can observe the evolution of the total value and the contribution of each component.
 - Data Storytelling : Stacked bar charts are useful for representing data in a visually appealing and informative way.
   They can be used in reports . presentation. or dashboards to communicate insights and findings effectively
-   
+
+
+
+![StackedBarChart](https://github.com/rifqanzalbina/matplotlib-Py/assets/124742008/8e472931-0094-4f26-aeba-3b7839571eae)
+
+
 

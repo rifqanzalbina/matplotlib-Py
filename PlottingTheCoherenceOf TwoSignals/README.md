@@ -14,3 +14,6 @@ two signals and can be used to analyze the relationship between the phenomena or
 - Signal and analysis and data interpretation : Coherence plots help in data data analysis and interpretation in an intuitive way. By looking
   at coherence visualization, we can extract information about the relationship and interrelationship between two signals , which can be
   used to make decisions or draw conclusions in various contexts , such as signal processing data , data analysis , or system modelling .
+
+  ![Plotting](https://github.com/rifqanzalbina/matplotlib-Py/assets/124742008/a6c01881-d19d-4858-896f-4d30f20f5578)
+

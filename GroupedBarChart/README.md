@@ -13,3 +13,6 @@ as well as the differences within the grups.
   By using different colors of each group. grouped bar charts can highlight the differences
   betweens groups and visualize those differences clearly. This helps you identify which group
   has a higher or lower score in each category.
+
+  
+![GroupedBarChart](https://github.com/rifqanzalbina/matplotlib-Py/assets/124742008/976146f8-c3df-4f35-81fb-9a97001dba13)

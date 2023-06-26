@@ -16,3 +16,6 @@ of proccess of varying duration in an intuitive visaul form
   in matplotlib for example, you can add x and y axes, labels, titles, and annotations to a bar
   chart. This allows you to create richer and informative visualizations by combining these diagrams with
   other elements such as timelines, text, or custom annotations.
+
+
+![BrokenBarh](https://github.com/rifqanzalbina/matplotlib-Py/assets/124742008/6d6b9db3-f486-4310-86f8-1dc7c56e850a)

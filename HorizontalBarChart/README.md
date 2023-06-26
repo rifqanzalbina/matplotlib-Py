@@ -7,3 +7,6 @@
 - Horizontal Bar Charts can also be used to show changes in values from one time period
   to another. For example, if you have annual sales data for several years, you can use a
   Horizontal Bar Chart to see how sales have changed over each year
+
+
+![HorizontalBarChart](https://github.com/rifqanzalbina/matplotlib-Py/assets/124742008/cf526b95-d674-4ce2-a092-9c6a354b3e8f)

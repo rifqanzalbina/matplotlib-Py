@@ -8,5 +8,8 @@ The primary purpose of 3D bar chart is to provide a visual representation of the
 - Finance : Comparing financial performance of different companies across multiple years
 - Science and engineering : Representing data from experiments or simulations involving multiple   independent variables.
 
+![3DBarPlotChart](https://github.com/rifqanzalbina/matplotlib-Py/assets/124742008/8c0850d0-1b72-4e91-b29f-912b36533085)
+
+
 
 

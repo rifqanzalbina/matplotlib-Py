@@ -7,3 +7,5 @@
 - Visualization : The resulting triangular mesh with interpolated values is visualized in a three-dimensional plot. The vertices of the triangles represent the X and Y coordinates , thus forming the surface
 - Customization : The Triangular3DSurfaces graph can be further customized by applying color maps, shading, lighting, labels, and other visual enchancements to improve readability and convey additional information 
 
+![Triangular3DChart](https://github.com/rifqanzalbina/matplotlib-Py/assets/124742008/e5a90b12-3c17-4df3-8df3-c40159da1ad6)
+

@@ -17,4 +17,4 @@ A Case Matplotlib and with explanation
 `python -m pip install -U matplotlib`
 
 ## The project
-- Always update every week :D
+- Always update case , Just wait :D

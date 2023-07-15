@@ -1,5 +1,5 @@
 # Matplotlib-Py
-A Case Matplotlib and with explanation
+A Case Problem Matplotlib and with explanation
 
 ## What is Matplotlib?
 - Matplotlib is a library in the Python programming language that is used to create data

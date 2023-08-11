@@ -16,5 +16,4 @@ A Case Problem Matplotlib and with explanation
 ## How to Install
 `python -m pip install -U matplotlib`
 
-## The project
-- Always update case , Just wait :D
+
